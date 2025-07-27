@@ -12,7 +12,7 @@ export default function MainHeader() {
       <header className={styles.header}>
         <Link href="/" className={styles.logo}>
           <Image src={logoImg} alt="The Foodies App Logo" priority />
-          NextLevel Food
+          THE FOODIE HUB
         </Link>
         <nav className={styles.nav}>
           <ul>
